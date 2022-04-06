@@ -1,0 +1,103 @@
+id: 60780fb13d7c4a238fec3b830adefe16
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3cdfe8777e984a29a8a10f256b2ad696:
+    span:
+      start: 0
+      end: 2543
+    metadata:
+      page_no: 1
+    page_info: null
+    imgnum: null
+    reference: null
+  78276f2b61cd43839404b0e02f70110c:
+    span:
+      start: 2545
+      end: 5224
+    metadata:
+      page_no: 2
+    page_info: null
+    imgnum: null
+    reference: null
+  d74d861fd7a54365a860441c522eb774:
+    span:
+      start: 5226
+      end: 7998
+    metadata:
+      page_no: 3
+    page_info: null
+    imgnum: null
+    reference: null
+  9c1a0955290d4897ba70f11e7315e8d9:
+    span:
+      start: 8000
+      end: 11410
+    metadata:
+      page_no: 4
+    page_info: null
+    imgnum: null
+    reference: null
+  6be29c706201410dad13637e9d180673:
+    span:
+      start: 11412
+      end: 14854
+    metadata:
+      page_no: 5
+    page_info: null
+    imgnum: null
+    reference: null
+  e3bd88c5632a445dbc9fcde2bf7216c3:
+    span:
+      start: 14856
+      end: 18299
+    metadata:
+      page_no: 6
+    page_info: null
+    imgnum: null
+    reference: null
+  122b6b8d6d184ae995f1716537ab6930:
+    span:
+      start: 18301
+      end: 20823
+    metadata:
+      page_no: 7
+    page_info: null
+    imgnum: null
+    reference: null
+  a139bd8aeefe401fb4a058763410c21a:
+    span:
+      start: 20825
+      end: 25854
+    metadata:
+      page_no: 8
+    page_info: null
+    imgnum: null
+    reference: null
+  12a42c48dfa243a6baefa896d6ccaf1b:
+    span:
+      start: 25856
+      end: 30613
+    metadata:
+      page_no: 9
+    page_info: null
+    imgnum: null
+    reference: null
+  b3a2557a5c494284a68973fffde169ae:
+    span:
+      start: 30615
+      end: 34917
+    metadata:
+      page_no: 10
+    page_info: null
+    imgnum: null
+    reference: null
+  ad726866faf14e719299c86cc7cf28e1:
+    span:
+      start: 34919
+      end: 37442
+    metadata:
+      page_no: 11
+    page_info: null
+    imgnum: null
+    reference: null
